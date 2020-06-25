@@ -1,0 +1,6 @@
+Adding more lines.
+This is a new file.
+We are using fork to copy a repo from nna01.
+Then cloning the project to local pc.
+Adding a new branch named "add".
+In the new branch creating new.txt file.
